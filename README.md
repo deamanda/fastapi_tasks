@@ -65,7 +65,7 @@ pip install -r requirements.txt
 # Run the server
 
 ```bash
-uvicorn main:app --reload
+fastapi dev
 ```
 
 Server will start at:
