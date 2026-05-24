@@ -30,8 +30,8 @@ A simple Task Manager REST API built with FastAPI, JWT authentication, and async
 ## Clone repository
 
 ```bash
-git clone <your-repository-url>
-cd <project-folder>
+git clone https://github.com/deamanda/fastapi_tasks.git
+cd fastapi_tasks
 ```
 
 ---
